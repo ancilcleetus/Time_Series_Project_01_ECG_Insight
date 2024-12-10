@@ -1,6 +1,6 @@
-# ECG_Insight: ECG Heartbeat Classifier on Kaggle ECG Heartbeat Categorization Dataset
+# ECG_Insight: ECG Heartbeat Classifier on Kaggle Heartbeat Categorization Dataset
 
-# ![ECG_Insight: ECG Heartbeat Classifier on Kaggle ECG Heartbeat Categorization Dataset](data/animations/ECG_Insight-01.gif)
+# ![ECG_Insight: ECG Heartbeat Classifier on Kaggle Heartbeat Categorization Dataset](data/animations/ECG_Insight-01.gif)
 
 > **`Note 1`**: Use ![Open in nbviewer](https://img.shields.io/badge/Jupyter%20nbviewer-F37626?logo=jupyter&logoColor=white&style=flat) (recommended) in order to view the jupyter notebooks (nbviewer loads the notebook really fast compared to GitHub). You can see all the codes and the outputs in nbviewer without running the whole code again.
 
