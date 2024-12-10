@@ -25,6 +25,6 @@
 
 ## Future Improvements Envisioned:
 
-1. Deployment in my personal website [ECG_Insight](http://ancilcleetus.com/Personal-Projects/Time-Series-Projects/Time_Series_Project_01_HeartBeatInsight)
+1. Deployment in my personal website [HeartBeatInsight](http://ancilcleetus.com/Personal-Projects/Time-Series-Projects/Time_Series_Project_01_HeartBeatInsight)
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
